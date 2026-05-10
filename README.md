@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-- ESTUDIANTE DE INGENIERÍA INFORMÁTICA (actualmente en el ecuador de la carrera 🚀)
+- ESTUDIANTE DE INGENIERÍA INFORMÁTICA (actualmente en el ecuador de la carrera)
 
 - APRENDIZ DE TODO, MASTER DE NADA (POR AHORA)
 Me apasiona el desarrollo de software y paso gran parte de mi tiempo libre trasteando con nuevas tecnologías, leyendo documentación y dándole vueltas a cómo mejorar mi lógica de programación.
